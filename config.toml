@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "Google IMA Test"
+baseURL = "https:\/\/www.canonind.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758905"
+subfolder = ""
